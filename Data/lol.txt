@@ -43,11 +43,11 @@ red team ward killed counts(Number of warding killed)
 
 redTotalMinionKills
 continuous
-blue team kill minion counts (includign jungle)
+red team kill minion counts (includign jungle)
 
 redJungleMinionKills
 continuous
-blue team kill jungle minion counts
+red team kill jungle minion counts
 
 redTotalHeal
 continuous
@@ -67,7 +67,7 @@ Which team first killed Baron Nashor
 
 FirstDragon
 categorical - Red/Blue
-Which team forst killed a Dragon
+Which team first killed a Dragon
 
 win
 Target Class - Red/Blue
